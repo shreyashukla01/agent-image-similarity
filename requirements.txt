@@ -1,0 +1,12 @@
+
+openai
+openai-agents
+numpy
+pillow
+opencv-python
+fastdtw
+torch
+transformers
+scikit-image
+gradio
+python-dotenv
